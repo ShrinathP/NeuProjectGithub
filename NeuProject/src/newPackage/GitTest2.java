@@ -8,6 +8,11 @@ public class GitTest2  {
 		GitTest.writeThis("Biology");
 		GitTest.writeThis("Electronics");
 		GitTest.writeThis("Mechanical");
+		
+		System.out.println("New TV series: HOUSE OF CARDS");
+		System.out.println("New TV series: NARCOS");
+		System.out.println("New TV series: 7 DAYS IN ENTEBEE");
+
 	}
 
 }
