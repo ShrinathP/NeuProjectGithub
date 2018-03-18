@@ -13,6 +13,10 @@ public class GitTest2  {
 		System.out.println("New TV series: NARCOS");
 		System.out.println("New TV series: 7 DAYS IN ENTEBEE");
 
+System.out.println("New TV series: BAND OF BROTHERSPT2");
+		System.out.println("New TV series: CASTLEPT2");
+		System.out.println("New TV series: WHITE COLLAR");
+
 	}
 
 }
