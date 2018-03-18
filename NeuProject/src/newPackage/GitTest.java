@@ -16,6 +16,13 @@ public class GitTest {
 		writeThis("Physics");
 		writeThis("Samsung");
 		writeThis("LG");
+		
+		
+		
+		for (int i=0; i<5;i++)
+		{
+		System.out.println("My number=" +i);	
+		}
 
 
 	}
