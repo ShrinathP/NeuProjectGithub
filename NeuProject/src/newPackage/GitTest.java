@@ -13,6 +13,7 @@ public class GitTest {
 	{
 		writeThis("Chemistry");
 		writeThis("Maths");
+		writeThis("Physics");
 
 	}
 }
