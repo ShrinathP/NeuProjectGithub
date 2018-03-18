@@ -11,12 +11,13 @@ public class GitTest {
 	
 	public static void main (String[] args)
 	{
-		writeThis("Chemistry");
-		writeThis("Maths");
-		writeThis("Physics");
-		writeThis("Samsung");
-		writeThis("LG");
-		
+		writeThis("Strength of Materials");
+		writeThis("Algebra");
+		writeThis("Geometry");
+		writeThis("Micromax");
+		writeThis("Sony");
+		writeThis("Videocon");
+
 		
 		
 		for (int i=0; i<5;i++)
