@@ -17,9 +17,9 @@ public class GitTest {
 		writeThis("Samsung");
 		writeThis("LG");
 		
+		int j =6;
 		
-		
-		for (int i=0; i<5;i++)
+		for (int i=0; i<j;i++)
 		{
 		System.out.println("My number=" +i);	
 		}
