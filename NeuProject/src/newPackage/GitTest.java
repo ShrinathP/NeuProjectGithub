@@ -14,6 +14,9 @@ public class GitTest {
 		writeThis("Chemistry");
 		writeThis("Maths");
 		writeThis("Physics");
+		writeThis("Samsung");
+		writeThis("LG");
+
 
 	}
 }
