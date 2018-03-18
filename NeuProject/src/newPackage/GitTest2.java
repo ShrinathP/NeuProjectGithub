@@ -1,9 +1,13 @@
 package newPackage;
 
-public class GitTest2 extends GitTest {
+public class GitTest2  {
 	
 	public static void main (String[] args)
-	{writeThis("Biology");
+	{
+		//GitTest test= new GitTest();
+		GitTest.writeThis("Biology");
+		GitTest.writeThis("Electronics");
+		GitTest.writeThis("Mechanical");
 	}
 
 }
