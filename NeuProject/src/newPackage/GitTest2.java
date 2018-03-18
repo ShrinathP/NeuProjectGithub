@@ -9,8 +9,8 @@ public class GitTest2  {
 		GitTest.writeThis("Electronics");
 		GitTest.writeThis("Mechanical");
 		
-		System.out.println("New TV series: BAND OF BROTHERS");
-		System.out.println("New TV series: CASTLE");
+		System.out.println("New TV series: BAND OF BROTHERSPT2");
+		System.out.println("New TV series: CASTLEPT2");
 		System.out.println("New TV series: WHITE COLLAR");
 
 	}
