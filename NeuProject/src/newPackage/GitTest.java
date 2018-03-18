@@ -17,6 +17,11 @@ public class GitTest {
 		writeThis("Micromax");
 		writeThis("Sony");
 		writeThis("Videocon");
+		writeThis("Chemistry");
+		writeThis("Maths");
+		writeThis("Physics");
+		writeThis("Samsung");
+		writeThis("LG");
 
 		
 		
